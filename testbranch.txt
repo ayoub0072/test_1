@@ -1,0 +1,6 @@
+git touch
+git status (pas ajouter juste declaré a github mais ajouter dans dossier mon PC)
+git add "testbranch.txt"
+git status(maitenant ajouter il faut afficher dans github)
+git commit -m "testbranch.txt"
+git push -u origin noubranch
